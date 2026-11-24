@@ -1,0 +1,19 @@
+
+.container {
+  max-width: 650px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.container .ant-card {
+  margin-bottom: 16px;
+  border-radius: 12px;
+}
+
+.container .ant-card-head-title {
+  font-weight: 600;
+}
+
+.container .ant-divider {
+  margin: 20px 0;
+}
